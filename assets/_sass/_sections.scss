@@ -11,10 +11,12 @@ section.gradient, section.gradientrev {
 
 .gradient {
 	background: linear-gradient($lightgreen, $darkgreen);
+	h1 { color: #fff; }
 }
 
 .gradientrev {
 	background: linear-gradient($darkgreen, $lightgreen);
+	h1 { color: #fff; }
 }
 
 section:first-of-type {
