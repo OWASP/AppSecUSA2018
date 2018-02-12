@@ -1,0 +1,25 @@
+- title: Submit
+  items:
+  - title: Call for papers
+    url  : program/call-for-papers
+  - title: Call for trainings
+    url  : program/call-for-trainings
+- title: London
+  items:
+  - title: The Venue
+    url  : london/venue
+  - title: Hotel
+    url  : london/hotel
+  - title: Travel
+    url  : london/how-to-get-there
+- title: About
+  items:
+  - title: OWASP
+    url  : about/
+  - title: Team
+    url  : about/team
+  - title: Diversity statement
+    url  : about/diversity-statement
+- title: Registration
+  url: registration/
+  css: emp

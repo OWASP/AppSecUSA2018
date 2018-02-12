@@ -1,0 +1,97 @@
+---
+---
+@import "reset";
+@import "vars";
+@import "header";
+@import "footer";
+@import "teamlist";
+@import "keynotelist";
+@import "supporters";
+@import "sections";
+
+
+
+
+
+
+
+html, body {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: $darkgreen;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+h1,h2,h3 {
+	line-height: 1.5em;
+}
+
+sup {
+	font-size: 50%;
+	position: relative;
+	top: -0.5em;
+}
+sub {
+	font-size: 50%;
+	postion: relative;
+	top: -0.5em;
+}
+
+
+
+h1 {
+	font-family: 'Signika', sans-serif;
+	font-size: 3.25em;
+}
+h2 {
+	font-size: 4.1em;
+}
+h3 {
+	font-size: 3.25em;
+
+}
+
+ul li {
+	margin-bottom: 0.5em;
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+div.main {
+	min-height: 400px;
+}
+
+section {
+}
+
+section ul {
+	padding: 1em 1.5em;
+}
+section li {
+	list-style-type: disc;
+}
+
