@@ -9,12 +9,14 @@ header {
 			position: absolute;
 			top: 0em; 
 			left: 1em;
-			padding-left: 8.5em;
-			background: url(../images/logo.svg) right center no-repeat;
-			background-size: auto 90%;
+			padding-left: 10%;
+			background: url(../images/logo.svg);
+			background-repeat: no-repeat;
+			background-position: 40% center;
+			background-size: 100% auto;
 			text-decoration: none;
 			line-height: 9em;
-			width: 33em;
+			width: 35%;
     	height: 9em;
 		}
 	}
@@ -24,13 +26,10 @@ header {
 		display: flex;
 		justify-content: right;
 		padding: 0.75em;
-		position: absolute;
-		top: 4.8em;
 		font-weight: bolder;
-		right: 8.7em;
 		z-index: 5;
 		font-size: 0.8em;
-
+		padding-top: 4.8em;
 
 		.burger {
 			display: none;
@@ -142,8 +141,11 @@ header {
 		.top {
 			height: 5em;
 			.logo {
-				width: 10em;
-				height: 5em;				
+				width: 4.2em;
+				height: 5em;
+
+				background-size: 20em auto;
+				background-position: left center;				
 			}
 		}
 		nav {
@@ -152,26 +154,37 @@ header {
 			height: auto;
 			margin: 0;
 			padding: 0.5em 0em;
+			&:hover {
+				background: $darkgreen;
+				> ul {
+					background: $darkgreen;
+				}
+			}
 
 			.burger {
 				display: block;
 				padding: 0.3em 0.5em;
 				margin-left: 0em;
+				z-index: 20;
 			}
 
 			> ul {
 				display: none;
+				
+				z-index: 20;
 			}
 
 			&:hover > ul, .burger:hover + ul {
 				display: block;	
 			}
-
 			> ul {
 				> li {
 					width: 100%;
 					flex: none;
 					padding: 0.3em 0.5em;
+					&.dropdown:hover::after {
+						display: none
+					}
 
 					> ul {
 						position: relative;
@@ -188,6 +201,9 @@ header {
 
 				> li:hover > ul {
 					display: block;
+					li {
+						display: block;
+					}
 				}
 			}
 		}

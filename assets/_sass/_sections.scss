@@ -24,9 +24,21 @@ section:first-of-type {
 	margin-top: -9em;
 }
 
-section p {
-	line-height: 1.5em;
+
+
+section {
+	ul {
+		padding: 1em 1.5em;
+	}
+	li {
+		list-style-type: disc;
+	}
+	p, li {
+		line-height: 1.5em;
+	}
 }
+
+
 
 section.image {
 	background-position: bottom right, top center;
@@ -39,16 +51,18 @@ section.image {
 }
 
 section {
-	padding: 1em 8.7em;
+	padding: 1em 10%;
 }
 
 section.inversedark {
 	color: #fff;
 	background: $darkgreen;
+	h1 { color: #fff; }
 }
 section.inverse {
 	color: #fff;
 	background: $lightgreen;
+	h1 { color: #fff; }
 }
 section.nopadding {
 	padding: 0em 0em;
@@ -75,3 +89,17 @@ section.huge {
 		color: #fff;
 	}
 }
+
+
+@media (max-width: 500px) {
+	section {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	section.huge {
+		h1 { font-size: 4em;}
+		h2 { font-size: 3em;}
+		h3 { font-size: 1.5em;}
+	}
+}
+
