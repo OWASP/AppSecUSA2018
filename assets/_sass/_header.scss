@@ -82,8 +82,6 @@ header {
 						margin-top: 1.5em;
 				}
 
-
-
 				&.emp a {
 					background: #fff;
 					text-decoration: none;
@@ -100,11 +98,6 @@ header {
 					white-space: nowrap;
 					background: $lightgreen;
 					margin-top: 1.5em;
-
-
-
-
-
 
 					li {
 						margin: 0;
@@ -138,13 +131,13 @@ header {
 
 @media (max-width: 500px) {
 	header {
+		height: 5em;
 		.top {
 			height: 5em;
 			.logo {
-				width: 4.2em;
+				width: 90%;
 				height: 5em;
-
-				background-size: 20em auto;
+				background-size: 95% auto;
 				background-position: left center;				
 			}
 		}
@@ -170,7 +163,8 @@ header {
 
 			> ul {
 				display: none;
-				
+				position: relative;
+				left: -0.5em;
 				z-index: 20;
 			}
 
@@ -191,11 +185,19 @@ header {
 						z-index: 0;
 						width: 100%;
 						margin: 0 0 0 1em;
-						padding: 0.3em 0.5em;
+						padding: 0.3em 0.3em;
 						background: transparent;
 						box-shadow: none;
 						left: auto;
 						top: auto;
+						font-size: 1em;
+						line-height: 1em;
+						> li {
+							padding: 0.2em 0em;
+							&:last-child {
+								padding-bottom: 0em;
+							}
+						}
 					}
 				}
 

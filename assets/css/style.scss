@@ -86,13 +86,19 @@ div.main {
 	min-height: 400px;
 }
 
-section {
-}
 
-section ul {
-	padding: 1em 1.5em;
-}
-section li {
-	list-style-type: disc;
+
+
+@media (max-width: 500px) {
+	h1 {
+		font-size: 2.25em;
+	}
+	h2 {
+		font-size: 3.1em;
+	}
+	h3 {
+		font-size: 1.25em;
+
+	}
 }
 
