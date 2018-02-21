@@ -11,11 +11,14 @@
   - title: Hotel
     url  : sanjose/hotel
   - title: Travel
-    url  : sanjose/how-to-get-there
+    url  : sanjose/transportation
 - title: About
+  css: maxright
   items:
   - title: OWASP
     url  : about/
+  - title: Contact us
+    url  : about/contact-us
   - title: Team
     url  : about/team
   - title: Diversity statement

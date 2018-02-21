@@ -68,6 +68,13 @@ header {
 				padding: 0em 1em 2em 0em;
 				transition: all linear 0.1s;
 
+				&.maxright {
+					ul {
+						right: -100%;
+						left: auto;
+					}
+				}
+
 				&.dropdown:hover::after {
 						content: '';
 						position: absolute;
@@ -98,6 +105,7 @@ header {
 					white-space: nowrap;
 					background: $lightgreen;
 					margin-top: 1.5em;
+					padding-top: 0em;
 
 					li {
 						margin: 0;
@@ -161,23 +169,28 @@ header {
 				z-index: 20;
 			}
 
-			> ul {
-				display: none;
-				position: relative;
-				left: -0.5em;
-				z-index: 20;
-			}
 
 			&:hover > ul, .burger:hover + ul {
 				display: block;	
 			}
 			> ul {
+				display: none;
+				position: relative;
+				left: -0.5em;
+				z-index: 20;
+
 				> li {
 					width: 100%;
 					flex: none;
 					padding: 0.3em 0.5em;
 					&.dropdown:hover::after {
 						display: none
+					}
+					&.maxright {
+						ul {
+							right: auto;
+							left: auto;
+						}
 					}
 
 					> ul {
