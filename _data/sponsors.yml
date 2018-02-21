@@ -1,0 +1,23 @@
+- type: Diamond
+  sponsors:
+  - logo: example.png
+    name: example
+    url: https://www.example.org/
+- type: Gold
+  sponsors:
+  - logo: example2.png
+    name: example2
+    url: https://www.example2.com/
+  - logo: example3.png
+    name: example3
+    url: https://www.example3.com/
+- type: Lanyard
+  sponsors:
+  - logo: example4.png
+    name: example4
+    url: https://www.example4.com/
+- type: Capture the Flag
+  sponsors:
+  - logo: example4.png
+    name: example4
+    url: https://www.example3.com/
