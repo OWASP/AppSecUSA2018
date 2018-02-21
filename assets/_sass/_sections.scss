@@ -24,6 +24,36 @@ section:first-of-type {
 	margin-top: -9em;
 }
 
+.sponsors {
+	h3 {
+		color: $darkgreen;
+	}
+	div {
+		display: flex;
+		flex-wrap: wrap;
+		list-style: none;
+		margin: 0;
+		justify-content: space-around;
+		a {
+			height: 80px;
+			margin: 35px 10px;
+			width: 180px;
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center center;
+		}
+		&.Diamond a {
+			width: 270px;
+		}
+		&.Platinum a {
+			width: 220px;
+		}
+		&.Gold a {
+			width: 200px;
+		}
+	}
+}
+
 
 
 section {
