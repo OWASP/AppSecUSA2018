@@ -24,7 +24,3 @@
   - title: Team
     url  : about/team
   - title: Diversity statement
-    url  : about/diversity-statement
-- title: Registration
-  url: registration/
-  css: emp

@@ -12,7 +12,7 @@ layout: multisection
 <section markdown="1">
 # {{page.title}}
 
-OWASP has a room block for AppSec US 2018 attendees to book a room at the conference hotel. A direct booking link will be provided (please check back later).
+OWASP has a room block for AppSec US 2018 attendees to book a room at the conference hotel. Check back later for the direct booking link.
 
-Other accommodations can be fond here: [https://www.sanjose.org/hotels](https://www.sanjose.org/hotels)
+Other accommodations can be found here: [https://www.sanjose.org/hotels](https://www.sanjose.org/hotels)
 </section>
