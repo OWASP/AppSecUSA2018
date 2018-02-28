@@ -8,6 +8,9 @@
   - logo: qualys.png
     name: Qualys
     url: https://www.qualys.com/
+  - logo: microfocus.png
+    name: Micro Focus
+    url: https://www.microfocus.com/solutions/security/
 - type: Gold
   sponsors:
   - logo: twistlock.png
