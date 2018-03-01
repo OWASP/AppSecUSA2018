@@ -1,3 +1,22 @@
+section {
+	padding: 1em 10%;
+
+	a {
+		text-decoration: underline;
+	}
+	ul {
+		padding: 1em 1.5em;
+	}
+	li {
+		list-style-type: disc;
+	}
+	p, li {
+		line-height: 1.5em;
+	}
+}
+
+
+
 section.gradient, section.gradientrev {
 	color: #fff;
 	a { 
@@ -56,17 +75,6 @@ section:first-of-type {
 
 
 
-section {
-	ul {
-		padding: 1em 1.5em;
-	}
-	li {
-		list-style-type: disc;
-	}
-	p, li {
-		line-height: 1.5em;
-	}
-}
 
 
 
@@ -80,9 +88,6 @@ section.image {
 	h1 { color:#fff; }
 }
 
-section {
-	padding: 1em 10%;
-}
 
 section.inversedark {
 	color: #fff;
