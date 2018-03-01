@@ -4,8 +4,12 @@
     url  : program/call-for-presentations
   - title: Call for trainings
     url  : program/call-for-trainings
-- title: Sponsors
-  url  : sponsors/
+- title: Sponsor
+  items: 
+  - title: Sponsoring
+    url  : sponsors/
+  - title: Career Fair
+    url: sponsors/career-fair
 - title: San Jose
   items:
   - title: The Venue
