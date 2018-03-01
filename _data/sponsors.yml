@@ -19,9 +19,11 @@
   - logo: signalsciences.png
     name: Signal Sciences
     url: www.signalsciences.com
+  - logo: KryptowireLogoSquare.jpg
+    name: Kryptowire
+    url: https://www.kryptowire.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
     name: Netsparker
     url: https://www.netsparker.com/
-
