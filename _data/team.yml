@@ -1,4 +1,16 @@
 conferenceteam:
+  - name: Travis McPeak
+    role: OWASP Bay Area Chapter Lead
+    image: travis_small.jpg
+  - name: Will Bengtson
+    role: CfP Lead
+    image: will.jpg
+  - name: Wendy Zenone
+    role: CfT Lead
+    image: wendy.jpg
+  - name: Astha
+    role: Community Outreach Lead
+    image: ashta.jpg
 staff: 
   - name: Claudia Aviles-Casanovas
     role: Project Coordinator
