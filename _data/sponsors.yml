@@ -19,14 +19,14 @@
   - logo: signalsciences.png
     name: Signal Sciences
     url: www.signalsciences.com
+  - logo: wallarm.png
+    name: Wallarm
+    url: https://wallarm.com
 - type: Silver
   sponsors:
   - logo: KryptowireLogoSquare.jpg
     name: Kryptowire
     url: https://www.kryptowire.com/
-  - logo: wallarm.png
-    name: Wallarm
-    url: https://wallarm.com
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
