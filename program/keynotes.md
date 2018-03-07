@@ -17,13 +17,13 @@ title: Keynote speakers
 	{% for member in site.data.keynotespeakers %}
 		{% if member.name %}
 		<li>
-			<div class="image" style="background-image: url(/assets/images/keynotes/{{member.image | default: 'owasp_logo.png'}});{{member.style}};"></div>
+			<div class="image" style="background-image: url(/assets/images/keynotes/{{member.image | default: '../placeholder.svg'}});{{member.style}};"></div>
 			<div>
 				<h1>{{member.name}}</h1>
 				{% if member.uri %}
 					<h3><a href="{{member.uri}}">{{member.title}}</a></h3>
 				{% else %}
-					<h3>{{member.title}}</p>
+					<h3>{{member.title}}</h3> 
 				{% endif %}
 				<p>
 					{{member.description}}
