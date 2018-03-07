@@ -1,10 +1,23 @@
-- image: 
-  name: 
-  description: 
-  style: 
-- image: 
-  name: 
+- image      : Chenxi-Wang-PR-large.jpg
+  name       : Chenxi Wang
+  company    : Rain Capital
+  bio        : |
+    Dr. Chenxi Wang is the founder and General Partner of Rain Capital, an early stage Cybersecurity-focused venture fund, and Vice Chair for the Board of Director of OWASP. Previously, Dr. Wang was the co-founder of the Jane Bond Project, a cyber security consultancy. Prior to that, Chenxi served as the Chief Strategy Officer at Twistlock, responsible for Twistlock's early growth. Chenxi was the 2016 & 2017 program co-chair for Security & Privacy at the Grace Hopper Conference, and named by SC Magazine as 2016 Women of Influence. Chenxi built an illustrious career at Forrester Research, Intel Security, and CipherCloud. At Forrester, Chenxi wrote many hard-hitting research papers. At Intel Security, she led the ubiquity strategy spanning both hardware and software platforms. Chenxi started her career as a faculty member of Computer Engineering at Carnegie Mellon University. Chenxi is a sought-after public speaker and a trusted advisor for IT executives. She has been quoted/featured by New York Times, Wall Street Journal, Forbes.com, Fox Business News, Bloomberg, Dark Reading, and many other media outlets. Chenxi holds a Ph.D. in Computer Science from the University of Virginia.
+  title      : Defensible Application Security for the Artificial Intelligence Era
+  uri        : /program/keynote-wang
+  description: |
+    From the very beginning of the Internet, humans have struggled with how to trust in the digital world. Neuroscience studies are gradually uncovering clues as to how our brains process digital cues, and how we adapt to an increasingly extensive digital presence around us. As the scale of that presence increase exponentially so is the complexity of applications that process, represent, and protect the digital transactions, the identities, and the actions that we undertake every day. Today application security is a race against bad actors. We have fairly effective tools to separate humans from digital entities and test trustworthiness of certain actions, but we are wholly unprepared for a world when a digital entity passes the Turing test. This talk takes us through the concept of trust, how our brains process trust, and how we may arrive to decision making based on trust in the digital realm. We will examine how the infusion of machine learning and AI impact design principles for application security. Why we must design applications and systems with real-time controls that operate at scale and respond automatically to dynamic and intelligent adversaries.
+- image      :
+  name       :
+  company    :
+  bio        :
+  title      :
+  uri        :
   description:
-- image: 
-  name: 
-  description: 
+- image      :
+  name       :
+  company    :
+  bio        :
+  title      :
+  uri        :
+  description:
