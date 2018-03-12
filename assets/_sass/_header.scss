@@ -136,6 +136,12 @@ header {
 	}
 }
 
+@media (max-width: 750px) {
+	header nav > ul {
+    margin: -2em 0em 0em 0em;
+  }
+}
+
 
 @media (max-width: 500px) {
 	header {
@@ -178,6 +184,7 @@ header {
 				position: relative;
 				left: -0.5em;
 				z-index: 20;
+				margin: 0;
 
 				> li {
 					width: 100%;
