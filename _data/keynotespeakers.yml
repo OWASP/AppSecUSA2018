@@ -7,13 +7,13 @@
   uri        : /program/keynote-wang
   description: |
     From the very beginning of the Internet, humans have struggled with how to trust in the digital world. Neuroscience studies are gradually uncovering clues as to how our brains process digital cues, and how we adapt to an increasingly extensive digital presence around us. As the scale of that presence increase exponentially so is the complexity of applications that process, represent, and protect the digital transactions, the identities, and the actions that we undertake every day. Today application security is a race against bad actors. We have fairly effective tools to separate humans from digital entities and test trustworthiness of certain actions, but we are wholly unprepared for a world when a digital entity passes the Turing test. This talk takes us through the concept of trust, how our brains process trust, and how we may arrive to decision making based on trust in the digital realm. We will examine how the infusion of machine learning and AI impact design principles for application security. Why we must design applications and systems with real-time controls that operate at scale and respond automatically to dynamic and intelligent adversaries.
-- image      : 
-  name       : TBA
-  company    : 
+- image      : Armon-Dadgar.jpg
+  name       : Armon Dadgar
+  company    : Hashicorp
   bio        : 
-  title      : 
+  title      : Co-Founder and CTO
   uri        : 
-  description: 
+  description:
 - image      : 
   name       : TBA
   company    : 
