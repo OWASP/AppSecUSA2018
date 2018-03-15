@@ -27,6 +27,9 @@
   - logo: KryptowireLogoSquare.jpg
     name: Kryptowire
     url: https://www.kryptowire.com/
+  - logo: securityinnovation.png
+    name: Security Innovation
+    url: http://www.securityinnovation.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
