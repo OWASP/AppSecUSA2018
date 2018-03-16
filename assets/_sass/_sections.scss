@@ -79,10 +79,10 @@ section:first-of-type {
 
 
 section.image {
-	background-position: bottom right, top center;
-	background-repeat: repeat-y, no-repeat;
-	background-size: cover, cover;
-	background-blend-mode: multiply, normal;
+	background-position: bottom right, top center, top center;
+	background-repeat: repeat-y, no-repeat, no-repeat;
+	background-size: cover, cover, cover;
+	background-blend-mode: multiply, normal, normal;
 	color: #fff;
 	margin-bottom: 0em;
 	h1 { color:#fff; }
