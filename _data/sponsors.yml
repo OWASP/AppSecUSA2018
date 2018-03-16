@@ -22,6 +22,9 @@
   - logo: wallarm.png
     name: Wallarm
     url: https://wallarm.com
+  - logo: contrast.png
+    name: Contrast Security
+    url: https://www.contrastsecurity.com/
 - type: Silver
   sponsors:
   - logo: KryptowireLogoSquare.jpg
