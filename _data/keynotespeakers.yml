@@ -10,10 +10,12 @@
 - image      : Armon-Dadgar.jpg
   name       : Armon Dadgar
   company    : Hashicorp
-  bio        : 
-  title      : Co-Founder and CTO
-  uri        : 
-  description:
+  bio        : |
+    I have a passion for security and distributed systems and their application to real world problems. As a co-founder and CTO of HashiCorp, I bring both those interests into the world of DevOps tooling. As a former practitioner and proponent of open source software, I have helped design and implement the HashiCorp products to solve end user problems that I experienced first hand, while applying the state of the art from academic research. I place a high value on research, and lead the HashiCorp Research group, focused on industrial research in the security and large scale system management space.
+  title      : Making Security Approachable for Developers and Operators
+  uri        : /program/keynote-dadgar
+  description: |
+    Security is a complex topic filled with jargon and subtle nuances. The "weakest link" challenge in security means we must be concerned with every threat vector and apply best practices universally. This becomes challenging when we need to bring developers and operators into the fold, since our infrastructure and applications are critical to the our security posture. Instead of expecting everybody to become an expert in security, we need to make security more approachable for these audiences. In this talk, we discuss how to apply best practices and make them accessible to developers and operators through APIs, secure by default platforms, and policy as code.
 - image      : 
   name       : TBA
   company    : 
