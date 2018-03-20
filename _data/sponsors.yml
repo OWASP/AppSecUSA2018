@@ -25,6 +25,9 @@
   - logo: contrast.png
     name: Contrast Security
     url: https://www.contrastsecurity.com/
+  - logo: tcell.png
+    name: tcell.io
+    url: https://www.tcell.io
 - type: Silver
   sponsors:
   - logo: KryptowireLogoSquare.jpg
@@ -33,6 +36,12 @@
   - logo: securityinnovation.png
     name: Security Innovation
     url: http://www.securityinnovation.com/
+  - logo: scw.png
+    name: Secure Code Warrior
+    url: https://securecodewarrior.com/
+  - logo: Sonatype
+    name: Sonatype
+    url: http://www.sonatype.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
