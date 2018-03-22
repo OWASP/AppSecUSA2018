@@ -11,6 +11,9 @@
   - logo: microfocus.png
     name: Micro Focus
     url: https://www.microfocus.com/solutions/security/
+  - logo: securitycompass.png
+    name: Security Compass
+    url: https://www.securitycompass.com/
 - type: Gold
   sponsors:
   - logo: twistlock.png
