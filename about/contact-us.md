@@ -10,3 +10,6 @@ footerless: true
 * For questions regarding media please contact Lisa: [lisa.jones@owasp.org](mailto:lisa.jones@owasp.org)
 * For questions about the project Summit please contact Claudia: [Claudia.Aviles-Casanovas@owasp.org](mailto:Claudia.Aviles-Casanovas@owasp.org)
 * For any other quetion or concern please contact Laura: [Laura.Grau@owasp.org](mailto:laura.grau@owasp.org)
+
+
+<div style="height: 8em"></div>
