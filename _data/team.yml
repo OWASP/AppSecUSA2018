@@ -8,9 +8,12 @@ conferenceteam:
   - name: Wendy Zenone
     role: CfT Lead
     image: wendy.jpg
-  - name: Astha
+  - name: Astha Singhal
     role: Community Outreach Lead
     image: astha.jpg
+  - name: Christian DeHoyos
+    role: Volunteers Lead
+    image: christian.jpg
 staff: 
   - name: Claudia Aviles-Casanovas
     role: Project Coordinator
