@@ -45,6 +45,9 @@
   - logo: sonatype.png
     name: Sonatype
     url: http://www.sonatype.com/
+  - logo: rips.png
+    name: RIPS Technologies
+    url: https://www.ripstech.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
