@@ -9,11 +9,11 @@ title: Call for presentations
 
 **Review committee Announced** TBA
 
-**CfP Closes Friday** April 13
+**CfP Closes Friday** April 30
 
-**Notification of submitters** April 27th
+**Notification of submitters** May 14th
 
-**Program announced**  May 11th
+**Program announced**  August 4th
 
 ## Introduction
 
