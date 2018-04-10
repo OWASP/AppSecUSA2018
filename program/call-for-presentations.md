@@ -5,11 +5,11 @@ title: Call for presentations
 
 ## Important Dates:
 
-**CfP Opens Friday**  February 9th
+**CfP Opens:** Friday February 9th
 
-**Review committee Announced** TBA
+**Review committee Announced:** TBA
 
-**CfP Closes Friday** April 30
+**CfP Closes:**  Friday April 30th
 
 **Notification of submitters** May 14th
 
