@@ -5,15 +5,15 @@ title: Call for Trainings
 
 ## Important Dates:
 
-**CfT Opens Friday:**  February 9th
+**CfT Opens:** Friday February 9th
 
 **Review committee Announced:** TBA
 
-**CfT Closes:** Friday April 30, 2018
+**CfT Closes:** Friday April 30th
 
-**Notification of submitters:** May 14th, 2018
+**Notification of submitters:** May 14th
 
-**Program announced:**  August 4th, 2018
+**Program announced:**  August 4th
 
 ## Introduction
 
