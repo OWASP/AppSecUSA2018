@@ -15,18 +15,25 @@ conferenceteam:
     role: Volunteers Lead
     image: christian.jpg
 staff: 
-  - name: Claudia Aviles-Casanovas
-    role: Project Coordinator
+  - name: Karen Staley
+    role: Executive Director
     image: 
-  - name: Laura Grau
-    role: Event Manager
-    image: Laura-Grau-150x150.png
+  - name: Harold Blankenship
+    role: Director, Projects and Technology Support
+    image: HB_Profile.jpg
   - name: Kelly Santalucia
     role: Membership and Business Liaison
     image: staff-kelly_santalucia.png
+  - name: Laura Grau
+    role: Event Manager
+    image: Laura-Grau-150x150.png
+  - name: Claudia Aviles-Casanovas
+    role: Project Coordinator
+    image: 
+  - name: Dawn Aitken
+    role: Program Assistant
+    image: Dawn_picture_2.jpg
   - name: Hugo Costa
     role: Graphic Design
     image: OWASP_Staff6_Hugo_Costa-Graphic_Design.jpg
-  - name: Dawn Aitken
-    role: Program Assistant
-    image: 
+
