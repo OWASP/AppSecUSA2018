@@ -11,9 +11,9 @@ title: Call for presentations
 
 **CfP Closes:**  Friday April 30th
 
-**Notification of submitters** May 14th
+**Notification of submitters** Mid May
 
-**Program announced**  August 4th
+**Program announced**  Beginning of June
 
 ## Introduction
 

@@ -13,7 +13,7 @@ title: Call for Trainings
 
 **Notification of submitters:** May 14th
 
-**Program announced:**  August 4th
+**Program announced:**  Beginning of June
 
 ## Introduction
 
