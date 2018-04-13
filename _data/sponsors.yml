@@ -31,6 +31,9 @@
   - logo: tcell.png
     name: tcell.io
     url: https://www.tcell.io
+  - logo: checkmarx.png
+    name: Checkmarx
+    url: https://www.checkmarx.com/
 - type: Silver
   sponsors:
   - logo: KryptowireLogoSquare.jpg
