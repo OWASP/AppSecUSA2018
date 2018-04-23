@@ -56,3 +56,8 @@
   - logo: netsparker.png
     name: Netsparker
     url: https://www.netsparker.com/
+- type: University Challenge
+  - logo: duo.png
+    name: Duo Security
+    url: https://duo.com/
+
