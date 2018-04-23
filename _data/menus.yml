@@ -1,9 +1,11 @@
-- title: Submit
+- title: Program
   items:
   - title: Call for presentations
     url  : program/call-for-presentations
   - title: Call for trainings
     url  : program/call-for-trainings
+  - title: Capture the Flag
+    url  : program/ctf
 - title: Sponsor
   items: 
   - title: Sponsoring
