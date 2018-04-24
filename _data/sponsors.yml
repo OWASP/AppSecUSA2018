@@ -14,6 +14,9 @@
   - logo: securitycompass.png
     name: Security Compass
     url: https://www.securitycompass.com/
+  - logo: blackduck.png
+    name: Black Duck by Synopsys
+    url: https://www.blackducksoftware.com/
 - type: Gold
   sponsors:
   - logo: twistlock.png
