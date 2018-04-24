@@ -54,6 +54,9 @@
   - logo: rips.png
     name: RIPS Technologies
     url: https://www.ripstech.com/
+  - logo: aporeto.png
+    name: Aporeto
+    url: http://www.aporeto.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
