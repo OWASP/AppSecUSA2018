@@ -9,7 +9,7 @@ title: Call for Trainings
 
 **Review committee Announced:** TBA
 
-**CfT Closes:** Friday April 30th
+**CfT Closes:** Monday April 30th
 
 **Notification of submitters:** May 14th
 
