@@ -17,6 +17,12 @@
   - logo: blackduck.png
     name: Black Duck by Synopsys
     url: https://www.blackducksoftware.com/
+  - logo: ca_veracode.png
+    name: CA/Veracode
+    url: https://www.veracode.com
+  - logo: nowsecure.png
+    name: NowSecure
+    url: https://www.nowsecure.com/
 - type: Gold
   sponsors:
   - logo: twistlock.png
