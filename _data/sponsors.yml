@@ -63,6 +63,9 @@
   - logo: aporeto.png
     name: Aporeto
     url: http://www.aporeto.com/
+  - logo: codedx.png
+    name: CodeDx
+    url: https://codedx.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
