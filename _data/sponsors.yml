@@ -71,7 +71,7 @@
   - logo: netsparker.png
     name: Netsparker
     url: https://www.netsparker.com/
-- type: University Challenge
+- type: Capture the Flag
   sponsors:
   - logo: duo.png
     name: Duo Security
