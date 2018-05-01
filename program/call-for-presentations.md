@@ -1,7 +1,10 @@
 ---
 title: Call for presentations
 ---
+
 # {{page.title}}
+
+**Call for Presentations is CLOSED.**
 
 ## Important Dates:
 
@@ -68,6 +71,5 @@ Successful applications will:
 By your submission you agree to the OWASP Speaker Agreement.  OWASP values vendor neutrality. You must use the OWASP presentation template and you’re not allowed to place marketing pitches in your slides. All presentation slides will be published on the conference website after the conference. Please make sure that any pictures and other materials in your slides don’t violate any copyrights. You are solely liable for copyright violations. You may choose any CC license for your slides, including CC0. OWASP does suggest open licenses.
 
 ## Submit
-[https://owasp.submittable.com/submit/108093/2018-appsec-usa-san-jose-call-for-presentations](https://owasp.submittable.com/submit/108093/2018-appsec-usa-san-jose-call-for-presentations)
-
+**Call for Presentations is CLOSED**
 

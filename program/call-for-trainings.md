@@ -3,6 +3,8 @@ title: Call for Trainings
 ---
 # {{page.title}}
 
+**Call for Trainings is CLOSED**
+
 ## Important Dates:
 
 **CfT Opens:** Friday February 9th
@@ -85,4 +87,4 @@ Price per attendee: 3- Day Class $2,100 USD/ 2-Day Class €1,400 / 1-Day Class 
 Earnings will be split 60/40 (OWASP/Trainer) for the training class.
 
 ## Submit
-[https://owasp.submittable.com/submit/108070/2018-appsec-usa-san-jose-cft](https://owasp.submittable.com/submit/108070/2018-appsec-usa-san-jose-cft)
+**Call for Trainings is CLOSED**
