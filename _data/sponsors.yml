@@ -66,6 +66,9 @@
   - logo: codedx.png
     name: CodeDx
     url: https://codedx.com/
+  - logo: Acunetix.png
+    name: Acunetix
+    url: https://www.acunetix.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
