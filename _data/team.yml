@@ -14,6 +14,9 @@ conferenceteam:
   - name: Christian DeHoyos
     role: Volunteers Lead
     image: christian.jpg
+  - name: Erlend Oftedal
+    role: Web site
+    image: erlend.jpg
 staff: 
   - name: Karen Staley
     role: Executive Director
