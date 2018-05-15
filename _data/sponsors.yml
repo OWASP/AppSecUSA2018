@@ -69,6 +69,9 @@
   - logo: Acunetix.png
     name: Acunetix
     url: https://www.acunetix.com/
+  - logo: facebook.png
+    name: Facebook
+    url: https://www.facebook.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
