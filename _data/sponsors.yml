@@ -72,6 +72,9 @@
   - logo: facebook.png
     name: Facebook
     url: https://www.facebook.com/
+  - logo: continuumsecurity.png
+    name: Continuum Security
+    url: https://www.continuumsecurity.net/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
