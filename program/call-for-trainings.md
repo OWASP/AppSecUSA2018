@@ -13,7 +13,7 @@ title: Call for Trainings
 
 **CfT Closes:** Monday April 30th
 
-**Notification of submitters:** May 14th
+**Notification of submitters:** Mid May
 
 **Program announced:**  Beginning of June
 
