@@ -71,10 +71,11 @@
     url: https://www.acunetix.com/
   - logo: facebook.png
     name: Facebook
-    url: https://www.facebook.com/whitehat/report/?
+    url: https://www.facebook.com/whitehat/report/
   - logo: continuumsecurity.png
     name: Continuum Security
     url: https://www.continuumsecurity.net/
+    backgroundSize: "contain; height: 110px; margin: 30px 10px;"
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
