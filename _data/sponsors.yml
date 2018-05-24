@@ -23,6 +23,9 @@
   - logo: nowsecure.png
     name: NowSecure
     url: https://www.nowsecure.com/
+  - logo: Flexera.png
+    name: Flexera
+    url: https://www.flexera.com/
 - type: Gold
   sponsors:
   - logo: twistlock.png
