@@ -114,6 +114,10 @@ header {
 					}
 				}
 
+				&:first-child {
+					left: -142%;
+				}
+
 				&:last-child {
 					padding-right: 0em;
 					ul {
