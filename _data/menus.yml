@@ -14,8 +14,12 @@
     url  : sponsors/
   - title: Career Fair
     url: sponsors/career-fair
-- title: Speakers
-  url  : program/keynotes
+- title: Program
+  items: 
+  - title: Keynotes
+    url  : program/keynotes
+  - title: Full program
+    url: program/
 - title: San Jose
   items:
   - title: The Venue
