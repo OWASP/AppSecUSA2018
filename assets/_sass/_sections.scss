@@ -48,6 +48,7 @@ section:first-of-type {
 		color: $darkgreen;
 		text-align: center;
 		margin-top: 2em;
+		border-bottom: $darkgreen;
 	}
 	div {
 		display: flex;
@@ -64,7 +65,7 @@ section:first-of-type {
 			background-position: center center;
 		}
 		&.Diamond a {
-			width: 270px;
+			width: 300px;
 		}
 		&.Platinum a {
 			width: 220px;
