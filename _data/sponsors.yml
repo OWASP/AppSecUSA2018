@@ -85,6 +85,9 @@
     name: Continuum Security
     url: https://www.continuumsecurity.net/
     backgroundSize: "contain; height: 110px; margin: 30px 10px;"
+  - logo: Denim_Group_logo.jpg
+    name: Denim Group
+    url: https://www.denimgroup.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
