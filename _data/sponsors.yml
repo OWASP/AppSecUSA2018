@@ -23,9 +23,9 @@
   - logo: nowsecure.png
     name: NowSecure
     url: https://www.nowsecure.com/
-  - logo: Flexera.png
-    name: Flexera
-    url: https://www.flexera.com/
+  - logo: whitesource.png
+    name: Whitesource Software
+    url: https://www.whitesourcesoftware.com/
 - type: Gold
   sponsors:
   - logo: twistlock.png
@@ -46,6 +46,12 @@
   - logo: checkmarx.png
     name: Checkmarx
     url: https://www.checkmarx.com/
+  - logo: whitehat_security.jpg
+    name: WhiteHat Security
+    url: https://www.whitehatsec.com/
+  - logo: Flexera.png
+    name: Flexera
+    url: https://www.flexera.com/
 - type: Silver
   sponsors:
   - logo: KryptowireLogoSquare.jpg
