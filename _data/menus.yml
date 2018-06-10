@@ -1,25 +1,21 @@
 - title: Program
   items:
-  - title: Call for presentations
-    url  : program/call-for-presentations
-  - title: Call for trainings
-    url  : program/call-for-trainings
+  - title: Keynotes
+    url  : program/keynotes
+  - title: Full program
+    url: program/
   - title: Call for volunteers
     url  : program/call-for-volunteers
   - title: Capture the Flag
     url  : program/ctf
+  - title: Networking event
+    url  : program/networking-event
 - title: Sponsor
   items: 
   - title: Sponsoring
     url  : sponsors/
   - title: Career Fair
     url: sponsors/career-fair
-- title: Program
-  items: 
-  - title: Keynotes
-    url  : program/keynotes
-  - title: Full program
-    url: program/
 - title: San Jose
   items:
   - title: The Venue
