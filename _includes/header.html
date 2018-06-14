@@ -48,13 +48,13 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
             <ul class="dropdown-menu">
             {% for item in menu.items %}
-                <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
+                <li><a href="{% if item.fullurl %}{{item.fullurl}}{% else %}{{baseUrl}}{{item.url}}{% endif %}">{{item.title}}</a></li>
             {% endfor %}
             </ul>
         </li>
       {% else %}
         <li class="{{menu.css}}">
-          <a  href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
+          <a  href="{% if menu.fullurl %}{{menu.fullurl}}{% else %}{{baseUrl}}{{menu.url}}{% endif %}">{{menu.title}}</a>
         </li>
       {% endif %}
     {% endfor %}

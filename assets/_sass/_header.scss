@@ -61,6 +61,9 @@ header {
 			padding: 0;
 			width: 100%;
 
+
+
+
 			> li {
 				position: relative;
 				flex: 0 1 auto;
@@ -73,6 +76,11 @@ header {
 						right: -100%;
 						left: auto;
 					}
+				}
+
+				&:first-child a {
+					background: #fff;
+					color: $darkgreen;
 				}
 
 				&.dropdown:hover::after {
