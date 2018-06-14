@@ -122,7 +122,7 @@ header {
 					}
 				}
 
-				&:first-child ul {
+				&:nth-child(2) ul {
 					right: -278%;
 					left: auto;
 				}
