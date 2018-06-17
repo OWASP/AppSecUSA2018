@@ -87,6 +87,37 @@ div.main {
 	min-height: 400px;
 }
 
+table.trainings {
+	width: 100%;
+	td { white-space: nowrap; }
+	td:nth-child(3) { white-space: normal; }
+	margin-bottom: 1em;
+	a { font-weight: bold }
+	th {
+		background: $darkgreen;
+		color: #fff;
+		font-weight: bold;
+		text-align: left;
+	}
+	td {
+		background: #eee;
+	}
+	td, th {
+		padding: 0.5em;
+		border-bottom: 5px solid #fff;
+	}
+}
+
+a.button {
+	display: inline-block;
+	margin: 0.5em 0;
+	color: #fff;
+	background: $darkgreen;
+	border-radius: 1em;
+	font-size: 140%;
+	text-decoration: none;
+	padding: 0.5em 1em;
+}
 
 
 

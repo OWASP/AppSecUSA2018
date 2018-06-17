@@ -1,0 +1,66 @@
+- day: October 8, Monday
+  trainings:
+  - time: 9:00am – 5:00pm
+    type: 1-day training
+    title: Building an AppSec Program with OWASP
+    instructor: Chris Romeo
+    url: https://appsecus2018.sched.com/event/F00Y/1-day-training-building-an-appsec-program-with-owasp?iframe=yes&w=100%&sidebar=yes&bg=no 
+  - time: 9:00am – 5:00pm
+    type: 1-day training
+    title: Machine Learning for Cyber Security Experts 
+    instructor: Felix Leder
+    url: https://appsecus2018.sched.com/event/F00c/1-day-training-machine-learning-for-cyber-security-experts?iframe=yes&w=100%&sidebar=yes&bg=no
+  - time: 9:00am – 5:00pm
+    type: 2-day training
+    title: Mobile Security Testing Guide - Hands on 
+    instructor: Sven Schleier
+    url: https://appsecus2018.sched.com/event/F00G/2-day-training-mobile-security-testing-guide-hands-on?iframe=yes&w=100%&sidebar=yes&bg=no
+  - time: 9:00am – 5:00pm
+    type: 2-day training
+    title: Seth & Ken’s Excellent Adventures (in Code Review)
+    instructor:  Ken Johnson, Seth Law
+    url: https://appsecus2018.sched.com/event/EyfO/2-day-training-seth-kens-excellent-adventures-in-code-review?iframe=yes&w=100%&sidebar=yes&bg=no
+  - time: 9:00am – 5:00pm
+    type: 2-day training
+    title: Webservice and Web Application Secure Coding with the OWASP Top 10 and the OWASP ASVS 
+    instructor: Jim Manico
+    url: https://appsecus2018.sched.com/event/F009/2-day-training-webservice-and-web-application-secure-coding-with-the-owasp-top-10-and-the-owasp-asvs?iframe=yes&w=100%&sidebar=yes&bg=no
+  - time: 9:00am – 5:00pm
+    type: 3-day training
+    title: Hacking Your Organization (One step at a time) 
+    instructor: Behrouz Sadeghipour
+    url: https://appsecus2018.sched.com/event/EyjH/3-day-training-hacking-your-organization-one-step-at-a-time?iframe=yes&w=100%&sidebar=yes&bg=no
+  - time: 9:00am – 5:00pm
+    type: 3-day training
+    title: Hands-on Secure Coding in Node.js 
+    instructor: Chetan Karande
+    url: https://appsecus2018.sched.com/event/Eyf8/3-day-training-hands-on-secure-coding-in-nodejs?iframe=yes&w=100%&sidebar=yes&bg=no
+  - time: 9:00am – 5:00pm
+    type: 3-day training
+    title: Intro to Hacking Decentralized Applications and Smart Contracts 
+    instructor: Mick Ayzenberg
+    url: https://appsecus2018.sched.com/event/EztE/3-day-training-intro-to-hacking-decentralized-applications-and-smart-contracts?iframe=yes&w=100%&sidebar=yes&bg=no
+  - time: 9:00am – 5:00pm
+    type: 3-day training
+    title: Python Hacker Bootcamp - Zero to Hero 
+    instructor: Stephanie Carruthers
+    url: https://appsecus2018.sched.com/event/F000/3-day-training-python-hacker-bootcamp-zero-to-hero?iframe=yes&w=100%&sidebar=yes&bg=no
+- day: October 9, Tuesday
+  trainings:
+  - time: 9:00am – 5:00pm
+    type: 1-day training
+    title: So You Want to Run a Secure Service on AWS? 
+    instructor: William Bengtson, Nag Medida
+    url: https://appsecus2018.sched.com/event/F00U/1-day-training-so-you-want-to-run-a-secure-service-on-aws?iframe=yes&w=100%&sidebar=yes&bg=no
+  - time: 9:00am – 5:00pm
+    type: 2-day training
+    title: Container Security, Serverless and Orchestration Training
+    instructor: Abhay Bhargav, Nithin Jois
+    url: https://appsecus2018.sched.com/event/F00X/2-day-training-container-security-serverless-and-orchestration-training?iframe=yes&w=100%&sidebar=yes&bg=no
+- day: October 10, Wednesday
+  trainings:
+  - time: 9:00am – 5:00pm
+    type: 1-day training
+    title: Small Team's guide to Security and Compliance in AWS
+    instructor: Prasanna Gautam
+    url: https://appsecus2018.sched.com/event/EyfE/1-day-training-small-teams-guide-to-security-and-compliance-in-aws?iframe=yes&w=100%&sidebar=yes&bg=no

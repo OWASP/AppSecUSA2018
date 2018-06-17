@@ -1,0 +1,28 @@
+---
+title: Training program
+---
+
+<h1> {{page.title}}</h1>
+
+<table class="trainings">
+	<tbody>
+	{% for day in site.data.trainings %}
+		<tr><th colspan=4>{{day.day}}</th></tr>
+		{% for training in day.trainings %}
+			<tr>
+				<td>{{training.type}}: <a href="{{training.url}}">{{training.title}}</a> by {{training.instructor}}</td>
+			</tr>
+		{% endfor %}
+	{% endfor %}
+	</tbody>
+</table>
+
+
+<h3>Pricing:</h3>
+<ul>
+	<li>Training One Day - $850 - Includes training class, coffee break and lunch.</li>
+	<li>Training Two Day - $1655 - Includes two days of training class, coffee break and lunch on both days.</li>
+	<li>Training Three Day - $2450 - Includes three days of training class, coffee break and lunch every day.</li>
+</ul>
+
+<p><a href="https://myowasp.force.com/eventapi__router?event=a560B000002Pp81" class="button">Register now</a></p>
