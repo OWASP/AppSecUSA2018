@@ -88,6 +88,9 @@
   - logo: Denim_Group_logo.jpg
     name: Denim Group
     url: https://www.denimgroup.com/
+  - logo: tala.png
+    name: Tala
+    url: https://www.talasecurity.io
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
