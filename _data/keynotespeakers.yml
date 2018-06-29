@@ -20,13 +20,11 @@
   name       : Michael Coates
   company    : Twitter
   bio        : |
-    Michael is the Chief Information Security Officer at Twitter. In this role he leads the security program for Twitter across all elements of information security. Michael is also the former chairman of the global board of directors for OWASP, the largest open source application security community. Michael is heavily involved in the security startup space serving as an adviser for multiple exciting startups.
-    
-    Prior to January 2015, Michael was the Director of Product Security at Shape. In this role Michael worked with an amazing team to drastically change the way organizations defend their applications against modern application attacks. Prior, Michael was at Mozilla where he built and lead the security assurance program to protect nearly half a billion Firefox users, Mozilla web applications, and infrastructure. Before building and leading security programs, Michael was a hands on security practitioner assessing the application and network security for some of the largest banks, governments and enterprises around the world.
-    
-    Outside of security Michael is an avid endurance athlete and has completed the NYC Marathon, Chicago Triathlon, multiple half marathons and a 2-day 200 mile bike trip.
-    
-    You can find Michael online at @_mwc
+    Michael Coates is the CEO & co-founder of Altitude Networks. Previously, Michael was the Chief Information Security Officer at Twitter. Michael has also served for six years on the OWASP global board of directors, three of those years as the chairman.
+    Prior to Twitter, Michael was the Director of Product Security at Shape Security. In this role Michael worked with an amazing team to drastically change the way organizations defend their applications against modern application attacks. Prior, Michael was head of security for Mozilla where he built and lead the security assurance program to protect nearly half a billion Firefox users, Mozilla web applications, and infrastructure. 
+    Before building and leading security programs, Michael spent six years as a hands-on security practitioner assessing, compromising, and securing the applications and networks for some of the largest banks, governments, and enterprises around the world.
+    Michael has served as an advisor to multiple startups and was also honored in 2012 when he was selected as an SC Magazine Influential Security Mind. Michael is based in San Francisco with his wife, two children and two dogs.
   title      : (in)Security is eating the world; speed and autonomy is our only hope for defense
   uri        : /program/keynote-coates
-  description: 
+  description: |
+    Technology has transformed nearly every segment of our lives and will continue to dramatically impact the future. From transportation, to medicine, to communication, technology underpins every aspect of how we interact with the world, and with each other. However, every day we see examples of critical security failures impacting technology, and ultimately our lives. The fundamentals of security may be simple, but the implementation is far from it. There is a massive interconnection of technologies, an explosion of data, time to market drivers, and human interpretation is mixed throughout. The solution to this chaos is not to employ more humans toiling for security. Automate or die. The future of security is a dramatic shift to autonomy, scale and speed. Join me as we journey through a talk of controversial stances and hard realities to uncover a strategy for securing the future of technology.
