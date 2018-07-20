@@ -156,6 +156,7 @@ header {
 }
 
 
+
 @media (max-width: 500px) {
 	header {
 		height: 5em;
@@ -168,6 +169,10 @@ header {
 				background-position: center 30%;				
 			}
 		}
+		nav > ul > li:nth-child(2) ul {
+			right: auto;
+		}
+
 		nav {
 			font-size: 100%;
 			padding: 0;
