@@ -13,8 +13,7 @@ layout: multisection
 # {{page.title}}
 
 170 South Market Street  
-San Jose  
-California, United States  
+San Jose, California, United States  
 95113  
 
 TEL + 1 408 998 1900  

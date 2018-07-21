@@ -12,5 +12,5 @@ Initial registration must be made in-person at the CTF area, where the mentors w
 
 What to bring:
 
-* A laptop with working wifi
+* A laptop with working wifi.
 * Make sure to download the ZAP proxy from OWASP.org or your favorite proxy (e.g. BurpSuite) and have it working properly. 
