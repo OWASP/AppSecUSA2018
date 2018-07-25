@@ -101,6 +101,11 @@
   - logo: duo.png
     name: Duo Security
     url: https://duo.com/
+- type: Bag
+  sponsors:
+  - logo: salesforce.png
+    name: Salesforce
+    url: https://www.salesforce.com/company/about-us/
 - type: Leader T-Shirts
   sponsors:
   - logo: redfin.jpg
