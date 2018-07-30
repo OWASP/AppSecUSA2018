@@ -91,6 +91,9 @@
   - logo: tala.png
     name: Tala
     url: https://www.talasecurity.io
+  - logo: avi.png
+    name: Avi Networks
+    url: https://avinetworks.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
