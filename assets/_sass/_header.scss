@@ -107,7 +107,7 @@ header {
 				  font-size: 0.8em;
 					display: none;
 					position: absolute;
-					left: -100%;
+					xleft: -100%;
 					z-index: 2;
 					list-style: none;
 					white-space: nowrap;
@@ -117,15 +117,12 @@ header {
 
 					li {
 						margin: 0;
-						display: inline-block;
+						display: block;
 						padding: 1em 1em;
 					}
 				}
 
-				&:nth-child(2) ul {
-					right: -278%;
-					left: auto;
-				}
+
 
 				&:last-child {
 					padding-right: 0em;
