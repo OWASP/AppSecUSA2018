@@ -94,6 +94,9 @@
   - logo: avi.png
     name: Avi Networks
     url: https://avinetworks.com/
+  - logo: nvisium.png
+    name: nVisium
+    url: https://nvisium.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
