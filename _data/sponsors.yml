@@ -97,6 +97,9 @@
   - logo: nvisium.png
     name: nVisium
     url: https://nvisium.com/
+  - logo: Software-Secured.png
+    name: Software Secured
+    url: https://www.softwaresecured.com
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
