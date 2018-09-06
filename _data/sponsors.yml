@@ -103,6 +103,9 @@
   - logo: hunter2.png
     name: Hunter2
     url: https://hunter2.com
+  - logo: hackerone_logo_black.png
+    name: HackerOne
+    url: https://www.hackerone.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
