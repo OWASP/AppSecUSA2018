@@ -106,6 +106,9 @@
   - logo: hackerone_logo_black.png
     name: HackerOne
     url: https://www.hackerone.com/
+  - logo: ey.png
+    name: EY
+    url: https://www.ey.com/en_gl
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
