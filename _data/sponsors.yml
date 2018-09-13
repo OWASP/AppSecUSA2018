@@ -121,6 +121,7 @@
   - logo: ibm.svg
     name: IBM
     url: https://www.ibm.com/us-en/?lnk=m
+    backgroundSize: "auto 70%"
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
