@@ -110,8 +110,11 @@
     name: EY
     url: https://www.aspectsecurity.com
   - logo: threatx-web.png
-    name: Threat X  
-    url: https://www.threatx.com/  
+    name: Threat X
+    url: https://www.threatx.com/ 
+  - logo: lacework.svg
+    name: Lacework
+    url: https://www.lacework.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
