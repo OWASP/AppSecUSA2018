@@ -52,6 +52,9 @@
   - logo: Flexera.png
     name: Flexera
     url: https://www.flexera.com/
+  - logo: rapid7.svg
+    name: Rapid7
+    url: https://www.rapid7.com/
 - type: Silver
   sponsors:
   - logo: KryptowireLogoSquare.jpg
