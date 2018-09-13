@@ -26,6 +26,9 @@
   - logo: whitesource.png
     name: Whitesource Software
     url: https://www.whitesourcesoftware.com/
+  - logo: f5.png
+    name: F5
+    url: https://www.f5.com/
 - type: Gold
   sponsors:
   - logo: twistlock.png
