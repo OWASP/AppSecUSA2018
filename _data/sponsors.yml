@@ -118,6 +118,9 @@
   - logo: lacework.svg
     name: Lacework
     url: https://www.lacework.com/
+  - logo: ibm.svg
+    name: IBM
+    url: https://www.ibm.com/us-en/?lnk=m
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
