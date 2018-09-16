@@ -3,6 +3,11 @@
   - logo: netsparker.png
     name: Netsparker
     url: https://www.netsparker.com/
+- type: Women in AppSec Diamond
+  sponsors:
+  - logo: paypal.png
+    name: Paypal
+    url: https://www.paypal.com/
 - type: Platinum
   sponsors:
   - logo: qualys.png
