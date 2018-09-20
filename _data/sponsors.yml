@@ -145,6 +145,11 @@
   - logo: salesforce.png
     name: Salesforce
     url: https://www.salesforce.com/company/about-us/
+- type: WIA T-Shirts
+  sponsors:
+  - logo: anlyz.svg
+    name: Anlyz
+    url: https://www.anlyz.co
 - type: Leader T-Shirts
   sponsors:
   - logo: redfin.jpg
