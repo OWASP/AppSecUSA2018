@@ -128,7 +128,7 @@
     url: https://www.lacework.com/
   - logo: ibm.svg
     name: IBM
-    url: https://www.ibm.com/us-en/?lnk=m
+    url: https://www.ibm.com/security/application-security
     backgroundSize: "auto 70%"
 - type: Lanyard
   sponsors:
