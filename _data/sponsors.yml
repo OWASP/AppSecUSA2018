@@ -155,6 +155,7 @@
   - logo: anlyz.svg
     name: Anlyz
     url: https://www.anlyz.co
+    backgroundSize: "auto 200%"
 - type: Leader T-Shirts
   sponsors:
   - logo: redfin.jpg
