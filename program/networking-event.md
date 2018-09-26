@@ -13,3 +13,7 @@ The event will provide attendees with heavy bowl hors d’oeuvres, fun entertain
 
 <img src="/assets/images/networking-1.jpg">
 
+The networking event is sponsored by:
+<div style="margin: 1em 0em;">
+<a href="https://www.adobe.com/"><img src="/assets/images/sponsors/adobe.png"></a>
+</div>

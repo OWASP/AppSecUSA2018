@@ -130,6 +130,11 @@
     name: IBM
     url: https://www.ibm.com/security/application-security
     backgroundSize: "auto 70%"
+- type: Networking event
+  sponsors:
+  - logo: adobe.png
+    name: Adobe
+    url: https://www.adobe.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
