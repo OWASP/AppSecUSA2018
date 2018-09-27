@@ -4,7 +4,7 @@ footerless: true
 ---
 
 # {{page.title}}
-* For questions, please contact Laura Grau: [Laura.Grau@owasp.org](mailto:laura.grau@owasp.org)
+* For questions, please contact Lisa Jones: [lisa.jones@owasp.org](mailto:lisa.jones@owasp.org)
 
 
 <div style="height: 8em"></div>
