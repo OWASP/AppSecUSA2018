@@ -135,6 +135,16 @@
   - logo: adobe.png
     name: Adobe
     url: https://www.adobe.com/
+- type: Project Track
+  sponsors:
+  - logo: allstate.jpg
+    name: AllState
+    url: https://www.allstate.com/
+- type: Coffee Break
+  sponsors:
+  - logo: allstate.jpg
+    name: AllState
+    url: https://www.allstate.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
