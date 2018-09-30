@@ -130,6 +130,20 @@
     name: IBM
     url: https://www.ibm.com/security/application-security
     backgroundSize: "auto 70%"
+- type: Diversity Scolarship
+  sponsors:
+  - logo: apple.png
+    name: Apple
+    url: https://www.apple.com/
+  - logo: netflix.svg
+    name: Netflix
+    url: https://www.netflix.com/
+  - logo: salesforce.png
+    name: Salesforce
+    url: https://www.salesforce.com/company/about-us/
+  - logo: uber.svg
+    name: UBER
+    url: https://www.uber.com/
 - type: Networking event
   sponsors:
   - logo: adobe.png
