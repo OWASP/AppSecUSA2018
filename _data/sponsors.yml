@@ -132,7 +132,7 @@
     backgroundSize: "auto 70%"
 - type: Diversity Scolarship
   sponsors:
-  - logo: apple.png
+  - logo: apple.svg
     name: Apple
     url: https://www.apple.com/
   - logo: netflix.svg
