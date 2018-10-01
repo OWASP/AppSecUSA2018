@@ -130,6 +130,9 @@
     name: IBM
     url: https://www.ibm.com/security/application-security
     backgroundSize: "auto 70%"
+  - logo: apple.svg
+    name: Apple
+    url: https://www.apple.com/
 - type: Diversity Scolarship
   sponsors:
   - logo: apple.svg
