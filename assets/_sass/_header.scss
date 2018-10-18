@@ -78,10 +78,6 @@ header {
 					}
 				}
 
-				&:first-child a {
-					background: #fff;
-					color: $darkgreen;
-				}
 
 				&.dropdown:hover::after {
 						content: '';
